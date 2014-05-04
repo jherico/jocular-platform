@@ -7,7 +7,7 @@
     <version>1.0.3</version>
   </parent>
   <artifactId>jocular-platform</artifactId>
-  <version>0.3.1.1</version>
+  <version>0.3.1.2</version>
   <name>OculusVR SDK binaries</name>
 
   <scm>
